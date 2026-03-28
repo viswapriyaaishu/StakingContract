@@ -1,0 +1,9 @@
+node_modules/
+target/
+dist/
+.cache/
+.anchor/
+solana-release*
+*.tar.bz2
+solana-install.sh
+install.sh
